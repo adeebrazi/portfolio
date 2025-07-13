@@ -237,6 +237,14 @@ footer{
         opacity: 0;
     }
 }
+/* .name{
+    background: linear-gradient(45deg, var(--accent) 30%, var(--text) 70%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    position: fixed;
+} */
+
+
 /* MEDIA QUERY AND RESPONSIVENESS START HERE */
 /* changes to make in 880px */
 @media (max-width: 920px) {
